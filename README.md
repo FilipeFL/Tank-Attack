@@ -6,7 +6,7 @@ A prototype made for a student project that was developed to learn how to setup 
 
 ## Download Preview
 
-This project contains the Unity project and game for you to play.
+You can download the game here: [Play Tank Attack](https://filipefl4.itch.io/tank-attack)!
 
 ### Through the Unity
 
